@@ -2,8 +2,6 @@
 
 This is a simple javascript program that takes a number and prints it out in English.
 
-<br />
-
 ## Setting Up The Application On Your Local Machine :wrench:
 
 <br />
