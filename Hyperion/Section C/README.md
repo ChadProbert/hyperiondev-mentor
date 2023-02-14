@@ -8,8 +8,6 @@ This is a simple javascript program that takes a number and prints it out in Eng
 
 * [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-<br />
-
 ## Installation :package:
 
 #### Downloading the application from GitHub
