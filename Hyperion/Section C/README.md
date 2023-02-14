@@ -40,7 +40,7 @@ node say-the-number
 npm test
 ```
 
-## Worst-case space complexity
+## Worst-case space complexity 📈
 
 The worst-case space complexity of this code is __O(1)__, as the size of the data that needs to be stored does not 
 depend on the size of the input "n". 
