@@ -1,0 +1,15 @@
+{
+	"name": "section-c",
+	"version": "1.0.0",
+	"description": "",
+	"main": "say-the-number.js",
+	"scripts": {
+		"test": "jest --verbose"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.4.2"
+	}
+}
